@@ -1,0 +1,27 @@
+_repo: A-Thousand-Mile-Walk-to-the-Gulf_60749
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Muir, John
+    birthdate: 1838
+    deathdate: 1914
+    gutenberg_agent_id: '180'
+    url: http://www.gutenberg.org/2009/agents/180
+    wikipedia: http://en.wikipedia.org/wiki/John_Muir
+  editor:
+    agent_name: William BadÃ¨
+    gutenberg_agent_id: '51122'
+    url: http://www.gutenberg.org/2009/agents/51122
+description: ''
+gutenberg_issued: '2019-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60749'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Thousand-Mile Walk to the Gulf
+url: http://www.gutenberg.org/ebooks/60749
